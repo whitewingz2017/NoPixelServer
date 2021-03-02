@@ -1,2 +1,2 @@
-start C:\Users\admin\Desktop\Server\NoPixel\run.cmd
+start C:\Maharlika\run.cmd
 exit
